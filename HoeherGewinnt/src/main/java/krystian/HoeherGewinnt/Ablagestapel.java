@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Ablagestapel {
 	
-	String test;
+
 	private List<Karte> abgelegteKarten;
 
 	
